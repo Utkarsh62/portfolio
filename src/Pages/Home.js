@@ -33,7 +33,7 @@ const Home = () => {
                 <div className="col-sm-4 col-6">
                 <Link to="/projects">
                     <button type="button" className="btn btn-primary">
-                      Project
+                    My Projects
                     </button>
                   </Link>
                 </div>
